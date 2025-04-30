@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Student at Masaryk University, proactive and curious backend developer</h3>
+<h3 align="center">Proactive and curious backend developer, studying</h3>
 
 - 🌱 I’m currently learning **JAVA EE, Spring Boot, Kubernetes, Machine Learning**
 
